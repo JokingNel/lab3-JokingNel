@@ -59,7 +59,7 @@ public class MyPanelClass extends JPanel {
                         p2.addPoint(x1 + 47, y1 + 58);
                         p2.addPoint(x1 + 53, y1 + 73);
                         p2.addPoint(x1 + 69, y1 + 73);
-                        p2.addPoint(x1 + 56, y1 + 83);
+                        p2.addPoint(x1 + 56, y1 + 83); 
                         p2.addPoint(x1 + 61, y1 + 98);
                         p2.addPoint(x1 + 47, y1 + 88);
                         p2.addPoint(x1 + 34, y1 + 98);
